@@ -54,8 +54,8 @@ const menu = [
 --------------------------------------------------------------*/
 
 // Read and display the datafile
-//loadJSON("../data/company.json");
-loadCSV("../data/company.csv");
+//loadJSON("data/company.json");
+loadCSV("data/company.csv");
 
 // Load flat CSV data and transform to hierachy
 async function loadCSV(file) {
