@@ -1,0 +1,104 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  background-color: #E6E6E9;
+  color: #070721;
+  overflow: clip;
+  user-select: none;
+}
+ 
+/*--------------------------------------------------------------
+# Graph
+--------------------------------------------------------------*/
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  vertical-align: top;
+}
+
+.svg-content {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/*--------------------------------------------------------------
+# Searchbar
+--------------------------------------------------------------*/
+.navigation {
+  position: absolute;
+  width: 100%;
+}  
+
+#searchbar {
+  width: 500px;
+}
+
+ul.select2-results {
+  max-height: 100px;
+}
+
+.select2-container,
+.select2-drop,
+.select2-search,
+.select2-search input {
+  font-size: 12px;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #004BA0 !important;
+  color: #FFFFFF !important; 
+}
+
+/*--------------------------------------------------------------
+# Reset button
+--------------------------------------------------------------*/
+.btn-custom {
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #0063D3;
+  border-radius: 4px;
+  border: none;
+  width: 100px;
+  cursor: pointer;
+  padding: 5px 0px 5px 0px;
+}
+
+.btn-custom:hover {
+  background-color: #004BA0;
+  color: #FFFFFF;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer a,
+.footer a:visited { 
+  color: #0063D3;
+  text-decoration: none;
+}
+
+.footer a:hover,
+.footer a:active { 
+  color: #004BA0; 
+  text-decoration: underline;
+  font-style: italic;
+}
+
+/*--------------------------------------------------------------
+# Resume: Resizing
+--------------------------------------------------------------*/
+@media (max-width: 530px) {
+.select2-container {
+      width: 100% !important;
+  }
+}

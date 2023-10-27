@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Customizable meta tags -->
+    <title>RespoNS</title>
+    <meta name="author" content="Sander Jurgens">
+    <meta name="description" content="Search for a colleague">
+
+    <!-- Favicons -->
+    <link href="img/favicon.ico" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Vendor CSS --> 
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/select2.min.css" rel="stylesheet">
+	<link href="css/opensans.css" rel="stylesheet">
+    <link href="css/d3-context-menu.css" rel="stylesheet">    
+	
+    <!-- Main CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    
+	<div class="svg-container container-fluid p-0" id="content"> 
+      <div class="navigation row p-1">
+	    
+		<!-- Searchbar -->
+		<div class="col-sm-auto col-xs-12 pb-1">
+	      <select id="searchbar"></select>	    
+		</div>
+		
+		<!-- Reset button -->
+	    <div class="col">
+	      <button type="button" id="reset" class="btn btn-primary btn-custom">Reset view</button>
+	    </div>
+	    		
+      </div>
+	  
+	  <!-- Footer -->
+      <div class="footer row">
+	    <div class="col mx-1">
+	      <h6><b>RespoNS</b> // Created by <a href="https://www.sanderjurgens.com">Sander Jurgens</a></h6>
+		</div>
+      </div>
+	  
+    </div>
+	
+    <!-- Vendor JS  -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/select2.min.js"></script>
+	<script src="js/d3.v7.min.js"></script>
+	<script src="js/d3-context-menu.js"></script>
+
+    <!-- Main JS -->
+    <script src="js/main.js"></script>
+  
+  </body>
+
+</html>

@@ -1,0 +1,116 @@
+id;parent;depname;colname;coltitle;managerid
+0;;Company;;;
+1;0;Staff;;;
+2;0;Operations;;;
+3;0;Commerce;;;
+4;1;IT;;;
+5;1;HR;;;
+6;1;Finance;;;
+7;2;Research & Development;;;
+8;2;Production;;;
+9;2;Logistics;;;
+10;3;Marketing;;;
+11;3;Sales;;;
+12;3;Customer Service;;;
+13;0;;Adam Perry;CEO;
+14;0;;Adelaide Owens;COO;13
+15;0;;Sam Harper;CCO;13
+16;1;;Victor Stewart;CIO;13
+17;1;;Julia Fowler;CHRO;13
+18;1;;Deanna Johnson;CFO;13
+19;2;;Frederick Baker;R&D Manager;14
+20;2;;Kate Russell;Production Manager;14
+21;2;;Rubie Barrett;Logistics Manager;14
+22;3;;Justin Douglas;Marketing Manager;15
+23;3;;Ashton Cole;Sales Manager;15
+24;3;;Frederick Morris;Customer Service Manager;15
+25;4;;Lenny Morgan;Information Security Officer;16
+26;4;;Justin Riley;Software Architect;16
+27;4;;Dexter Parker;Product Owner;16
+28;4;;Alfred Gibson;Scrum Master;16
+29;4;;Jordan Montgomery;DevOps Engineer;16
+30;4;;Catherine Hamilton;DevOps Engineer;16
+31;4;;Violet Stewart;DevOps Engineer;16
+32;4;;Maddie Johnson;DevOps Engineer;16
+33;4;;Chloe Adams;DevOps Engineer;16
+34;4;;Leonardo Alexander;Platform Engineer;16
+35;5;;Mary Harper;Recruiter;17
+36;5;;Ellia Casey;Recruiter;17
+37;5;;Belinda Montgomery;Learning Specialist;17
+38;5;;Aston Gray;Learning Specialist;17
+39;5;;Brianna Martin;Payroll Specialist;17
+40;5;;Jessica Parker;Payroll Specialist;17
+41;5;;Daryl Cameron;HR Advisor;17
+42;5;;Eddy Davis;HR Advisor;17
+43;5;;Blake Ferguson;Communication Advisor;17
+44;5;;Byron Martin;Communication Advisor;17
+45;6;;Julia Cunningham;Treasurer;18
+46;6;;Maya Perkins;Internal Auditor;18
+47;6;;Mike Ferguson;Tax Accountant;18
+48;6;;Carlos Anderson;Business Controller;18
+49;6;;Preston Perkins;Business Controller;18
+50;6;;Lenny Parker;Business Controller;18
+51;6;;John Myers;Business Controller;18
+52;6;;Miranda Martin;Business Controller;18
+53;6;;Adrian Watson;Procurement Specialist;18
+54;6;;Edgar Murray;Procurement Specialist;18
+55;7;;Aida Carter;Research Lead;19
+56;7;;Spike Payne;Business Consultant;19
+57;7;;John Grant;Business Consultant;19
+58;7;;Natalie Cooper;Business Consultant;19
+59;7;;Victoria Armstrong;Researcher;19
+60;7;;Lenny Elliott;Researcher;19
+61;7;;Brooke Stevens;Researcher;19
+62;7;;Lucy Wells;Researcher;19
+63;7;;Emily Morgan;Researcher;19
+64;7;;Maria Harrison;Researcher;19
+65;8;;Jacob Stewart;Production Planner;20
+66;8;;Lenny Ryan;Manufacturing Engineer;20
+67;8;;Anna Taylor;Manufacturing Engineer;20
+68;8;;Lucas Craig;Manufacturing Engineer;20
+69;8;;Kate Murphy;Manufacturing Engineer;20
+70;8;;Valeria Bennett;Manufacturing Engineer;20
+71;8;;Kevin Mason;Manufacturing Engineer;20
+72;8;;Evelyn Bailey;Quality Assurance Specialist;20
+73;8;;Lilianna Taylor;Maintenance Engineer;20
+74;8;;Frederick Gray;Maintenance Engineer;20
+75;9;;Preston Fowler;Logistics Supervisor;21
+76;9;;Kelsey Wilson;Logistics Planner;21
+77;9;;Sarah Stewart;Logistics Employee;21
+78;9;;Nicholas Scott;Logistics Employee;21
+79;9;;Edward Bailey;Logistics Employee;21
+80;9;;Catherine Jones;Logistics Employee;21
+81;9;;Richard Stevens;Warehouse Worker;21
+82;9;;Nicholas Murphy;Warehouse Worker;21
+83;9;;Sam Williams;Warehouse Worker;21
+84;9;;Aiden Hall;Warehouse Worker;21
+85;10;;Evelyn Scott;Brand Specialist;22
+86;10;;Madaline Tucker;Brand Specialist;22
+87;10;;Owen Moore;Pricing Specialist;22
+88;10;;Alisa Kelly;Pricing Specialist;22
+89;10;;Byron Robinson;Product Marketeer;22
+90;10;;Alissa Casey;Product Marketeer;22
+91;10;;Reid Morris;Product Marketeer;22
+92;10;;Eddy Kelley;Product Marketeer;22
+93;10;;Victor Casey;Product Marketeer;22
+94;10;;Maximilian Hamilton;Product Marketeer;22
+95;11;;Abraham Hill;Account Manager;23
+96;11;;Alberta Tucker;Account Manager;23
+97;11;;Myra Robinson;Sales Representative;23
+98;11;;Lilianna Rogers;Sales Representative;23
+99;11;;Dale Craig;Sales Representative;23
+100;11;;Brooke Williams;Sales Representative;23
+101;11;;Sabrina Chapman;Sales Assistant;23
+102;11;;Isabella Craig;Sales Assistant;23
+103;11;;Mike West;Sales Assistant;23
+104;11;;James Russell;Sales Assistant;23
+105;12;;Eric Allen;Service Team Lead;24
+106;12;;Catherine Watson;Service Team Lead;24
+107;12;;Adelaide Henderson;Customer Advisor;24
+108;12;;Maya Carroll;Customer Advisor;24
+109;12;;James Stewart;Customer Advisor;24
+110;12;;Adison Johnston;Customer Advisor;24
+111;12;;Alford Baker;Customer Advisor;24
+112;12;;Michael Hill;Customer Advisor;24
+113;12;;Ralph Burton;Customer Advisor;24
+114;12;;Tommy Nelson;Customer Advisor;24

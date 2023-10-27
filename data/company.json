@@ -1,0 +1,690 @@
+{
+ "id": "0",
+ "depname": "Company",
+ "children": [
+  {
+   "id": "1",
+   "depname": "Staff",
+   "children": [
+    {
+     "id": "4",
+     "depname": "IT",
+     "children": [
+      {
+       "id": "25",
+       "colname": "Lenny Morgan",
+       "coltitle": "Information Security Officer",
+       "managerid": "16"
+      },
+      {
+       "id": "26",
+       "colname": "Justin Riley",
+       "coltitle": "Software Architect",
+       "managerid": "16"
+      },
+      {
+       "id": "27",
+       "colname": "Dexter Parker",
+       "coltitle": "Product Owner",
+       "managerid": "16"
+      },
+      {
+       "id": "28",
+       "colname": "Alfred Gibson",
+       "coltitle": "Scrum Master",
+       "managerid": "16"
+      },
+      {
+       "id": "29",
+       "colname": "Jordan Montgomery",
+       "coltitle": "DevOps Engineer",
+       "managerid": "16"
+      },
+      {
+       "id": "30",
+       "colname": "Catherine Hamilton",
+       "coltitle": "DevOps Engineer",
+       "managerid": "16"
+      },
+      {
+       "id": "31",
+       "colname": "Violet Stewart",
+       "coltitle": "DevOps Engineer",
+       "managerid": "16"
+      },
+      {
+       "id": "32",
+       "colname": "Maddie Johnson",
+       "coltitle": "DevOps Engineer",
+       "managerid": "16"
+      },
+      {
+       "id": "33",
+       "colname": "Chloe Adams",
+       "coltitle": "DevOps Engineer",
+       "managerid": "16"
+      },
+      {
+       "id": "34",
+       "colname": "Leonardo Alexander",
+       "coltitle": "Platform Engineer",
+       "managerid": "16"
+      }
+     ]
+    },
+    {
+     "id": "5",
+     "depname": "HR",
+     "children": [
+      {
+       "id": "35",
+       "colname": "Mary Harper",
+       "coltitle": "Recruiter",
+       "managerid": "17"
+      },
+      {
+       "id": "36",
+       "colname": "Ellia Casey",
+       "coltitle": "Recruiter",
+       "managerid": "17"
+      },
+      {
+       "id": "37",
+       "colname": "Belinda Montgomery",
+       "coltitle": "Learning Specialist",
+       "managerid": "17"
+      },
+      {
+       "id": "38",
+       "colname": "Aston Gray",
+       "coltitle": "Learning Specialist",
+       "managerid": "17"
+      },
+      {
+       "id": "39",
+       "colname": "Brianna Martin",
+       "coltitle": "Payroll Specialist",
+       "managerid": "17"
+      },
+      {
+       "id": "40",
+       "colname": "Jessica Parker",
+       "coltitle": "Payroll Specialist",
+       "managerid": "17"
+      },
+      {
+       "id": "41",
+       "colname": "Daryl Cameron",
+       "coltitle": "HR Advisor",
+       "managerid": "17"
+      },
+      {
+       "id": "42",
+       "colname": "Eddy Davis",
+       "coltitle": "HR Advisor",
+       "managerid": "17"
+      },
+      {
+       "id": "43",
+       "colname": "Blake Ferguson",
+       "coltitle": "Communication Advisor",
+       "managerid": "17"
+      },
+      {
+       "id": "44",
+       "colname": "Byron Martin",
+       "coltitle": "Communication Advisor",
+       "managerid": "17"
+      }
+     ]
+    },
+    {
+     "id": "6",
+     "depname": "Finance",
+     "children": [
+      {
+       "id": "45",
+       "colname": "Julia Cunningham",
+       "coltitle": "Treasurer",
+       "managerid": "18"
+      },
+      {
+       "id": "46",
+       "colname": "Maya Perkins",
+       "coltitle": "Internal Auditor",
+       "managerid": "18"
+      },
+      {
+       "id": "47",
+       "colname": "Mike Ferguson",
+       "coltitle": "Tax Accountant",
+       "managerid": "18"
+      },
+      {
+       "id": "48",
+       "colname": "Carlos Anderson",
+       "coltitle": "Business Controller",
+       "managerid": "18"
+      },
+      {
+       "id": "49",
+       "colname": "Preston Perkins",
+       "coltitle": "Business Controller",
+       "managerid": "18"
+      },
+      {
+       "id": "50",
+       "colname": "Lenny Parker",
+       "coltitle": "Business Controller",
+       "managerid": "18"
+      },
+      {
+       "id": "51",
+       "colname": "John Myers",
+       "coltitle": "Business Controller",
+       "managerid": "18"
+      },
+      {
+       "id": "52",
+       "colname": "Miranda Martin",
+       "coltitle": "Business Controller",
+       "managerid": "18"
+      },
+      {
+       "id": "53",
+       "colname": "Adrian Watson",
+       "coltitle": "Procurement Specialist",
+       "managerid": "18"
+      },
+      {
+       "id": "54",
+       "colname": "Edgar Murray",
+       "coltitle": "Procurement Specialist",
+       "managerid": "18"
+      }
+     ]
+    },
+    {
+     "id": "16",
+     "colname": "Victor Stewart",
+     "coltitle": "CIO",
+     "managerid": "13"
+    },
+    {
+     "id": "17",
+     "colname": "Julia Fowler",
+     "coltitle": "CHRO",
+     "managerid": "13"
+    },
+    {
+     "id": "18",
+     "colname": "Deanna Johnson",
+     "coltitle": "CFO",
+     "managerid": "13"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "depname": "Operations",
+   "children": [
+    {
+     "id": "7",
+     "depname": "Research & Development",
+     "children": [
+      {
+       "id": "55",
+       "colname": "Aida Carter",
+       "coltitle": "Research Lead",
+       "managerid": "19"
+      },
+      {
+       "id": "56",
+       "colname": "Spike Payne",
+       "coltitle": "Business Consultant",
+       "managerid": "19"
+      },
+      {
+       "id": "57",
+       "colname": "John Grant",
+       "coltitle": "Business Consultant",
+       "managerid": "19"
+      },
+      {
+       "id": "58",
+       "colname": "Natalie Cooper",
+       "coltitle": "Business Consultant",
+       "managerid": "19"
+      },
+      {
+       "id": "59",
+       "colname": "Victoria Armstrong",
+       "coltitle": "Researcher",
+       "managerid": "19"
+      },
+      {
+       "id": "60",
+       "colname": "Lenny Elliott",
+       "coltitle": "Researcher",
+       "managerid": "19"
+      },
+      {
+       "id": "61",
+       "colname": "Brooke Stevens",
+       "coltitle": "Researcher",
+       "managerid": "19"
+      },
+      {
+       "id": "62",
+       "colname": "Lucy Wells",
+       "coltitle": "Researcher",
+       "managerid": "19"
+      },
+      {
+       "id": "63",
+       "colname": "Emily Morgan",
+       "coltitle": "Researcher",
+       "managerid": "19"
+      },
+      {
+       "id": "64",
+       "colname": "Maria Harrison",
+       "coltitle": "Researcher",
+       "managerid": "19"
+      }
+     ]
+    },
+    {
+     "id": "8",
+     "depname": "Production",
+     "children": [
+      {
+       "id": "65",
+       "colname": "Jacob Stewart",
+       "coltitle": "Production Planner",
+       "managerid": "20"
+      },
+      {
+       "id": "66",
+       "colname": "Lenny Ryan",
+       "coltitle": "Manufacturing Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "67",
+       "colname": "Anna Taylor",
+       "coltitle": "Manufacturing Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "68",
+       "colname": "Lucas Craig",
+       "coltitle": "Manufacturing Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "69",
+       "colname": "Kate Murphy",
+       "coltitle": "Manufacturing Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "70",
+       "colname": "Valeria Bennett",
+       "coltitle": "Manufacturing Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "71",
+       "colname": "Kevin Mason",
+       "coltitle": "Manufacturing Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "72",
+       "colname": "Evelyn Bailey",
+       "coltitle": "Quality Assurance Specialist",
+       "managerid": "20"
+      },
+      {
+       "id": "73",
+       "colname": "Lilianna Taylor",
+       "coltitle": "Maintenance Engineer",
+       "managerid": "20"
+      },
+      {
+       "id": "74",
+       "colname": "Frederick Gray",
+       "coltitle": "Maintenance Engineer",
+       "managerid": "20"
+      }
+     ]
+    },
+    {
+     "id": "9",
+     "depname": "Logistics",
+     "children": [
+      {
+       "id": "75",
+       "colname": "Preston Fowler",
+       "coltitle": "Logistics Supervisor",
+       "managerid": "21"
+      },
+      {
+       "id": "76",
+       "colname": "Kelsey Wilson",
+       "coltitle": "Logistics Planner",
+       "managerid": "21"
+      },
+      {
+       "id": "77",
+       "colname": "Sarah Stewart",
+       "coltitle": "Logistics Employee",
+       "managerid": "21"
+      },
+      {
+       "id": "78",
+       "colname": "Nicholas Scott",
+       "coltitle": "Logistics Employee",
+       "managerid": "21"
+      },
+      {
+       "id": "79",
+       "colname": "Edward Bailey",
+       "coltitle": "Logistics Employee",
+       "managerid": "21"
+      },
+      {
+       "id": "80",
+       "colname": "Catherine Jones",
+       "coltitle": "Logistics Employee",
+       "managerid": "21"
+      },
+      {
+       "id": "81",
+       "colname": "Richard Stevens",
+       "coltitle": "Warehouse Worker",
+       "managerid": "21"
+      },
+      {
+       "id": "82",
+       "colname": "Nicholas Murphy",
+       "coltitle": "Warehouse Worker",
+       "managerid": "21"
+      },
+      {
+       "id": "83",
+       "colname": "Sam Williams",
+       "coltitle": "Warehouse Worker",
+       "managerid": "21"
+      },
+      {
+       "id": "84",
+       "colname": "Aiden Hall",
+       "coltitle": "Warehouse Worker",
+       "managerid": "21"
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "colname": "Frederick Baker",
+     "coltitle": "R&D Manager",
+     "managerid": "14"
+    },
+    {
+     "id": "20",
+     "colname": "Kate Russell",
+     "coltitle": "Production Manager",
+     "managerid": "14"
+    },
+    {
+     "id": "21",
+     "colname": "Rubie Barrett",
+     "coltitle": "Logistics Manager",
+     "managerid": "14"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "depname": "Commerce",
+   "children": [
+    {
+     "id": "10",
+     "depname": "Marketing",
+     "children": [
+      {
+       "id": "85",
+       "colname": "Evelyn Scott",
+       "coltitle": "Brand Specialist",
+       "managerid": "22"
+      },
+      {
+       "id": "86",
+       "colname": "Madaline Tucker",
+       "coltitle": "Brand Specialist",
+       "managerid": "22"
+      },
+      {
+       "id": "87",
+       "colname": "Owen Moore",
+       "coltitle": "Pricing Specialist",
+       "managerid": "22"
+      },
+      {
+       "id": "88",
+       "colname": "Alisa Kelly",
+       "coltitle": "Pricing Specialist",
+       "managerid": "22"
+      },
+      {
+       "id": "89",
+       "colname": "Byron Robinson",
+       "coltitle": "Product Marketeer",
+       "managerid": "22"
+      },
+      {
+       "id": "90",
+       "colname": "Alissa Casey",
+       "coltitle": "Product Marketeer",
+       "managerid": "22"
+      },
+      {
+       "id": "91",
+       "colname": "Reid Morris",
+       "coltitle": "Product Marketeer",
+       "managerid": "22"
+      },
+      {
+       "id": "92",
+       "colname": "Eddy Kelley",
+       "coltitle": "Product Marketeer",
+       "managerid": "22"
+      },
+      {
+       "id": "93",
+       "colname": "Victor Casey",
+       "coltitle": "Product Marketeer",
+       "managerid": "22"
+      },
+      {
+       "id": "94",
+       "colname": "Maximilian Hamilton",
+       "coltitle": "Product Marketeer",
+       "managerid": "22"
+      }
+     ]
+    },
+    {
+     "id": "11",
+     "depname": "Sales",
+     "children": [
+      {
+       "id": "95",
+       "colname": "Abraham Hill",
+       "coltitle": "Account Manager",
+       "managerid": "23"
+      },
+      {
+       "id": "96",
+       "colname": "Alberta Tucker",
+       "coltitle": "Account Manager",
+       "managerid": "23"
+      },
+      {
+       "id": "97",
+       "colname": "Myra Robinson",
+       "coltitle": "Sales Representative",
+       "managerid": "23"
+      },
+      {
+       "id": "98",
+       "colname": "Lilianna Rogers",
+       "coltitle": "Sales Representative",
+       "managerid": "23"
+      },
+      {
+       "id": "99",
+       "colname": "Dale Craig",
+       "coltitle": "Sales Representative",
+       "managerid": "23"
+      },
+      {
+       "id": "100",
+       "colname": "Brooke Williams",
+       "coltitle": "Sales Representative",
+       "managerid": "23"
+      },
+      {
+       "id": "101",
+       "colname": "Sabrina Chapman",
+       "coltitle": "Sales Assistant",
+       "managerid": "23"
+      },
+      {
+       "id": "102",
+       "colname": "Isabella Craig",
+       "coltitle": "Sales Assistant",
+       "managerid": "23"
+      },
+      {
+       "id": "103",
+       "colname": "Mike West",
+       "coltitle": "Sales Assistant",
+       "managerid": "23"
+      },
+      {
+       "id": "104",
+       "colname": "James Russell",
+       "coltitle": "Sales Assistant",
+       "managerid": "23"
+      }
+     ]
+    },
+    {
+     "id": "12",
+     "depname": "Customer Service",
+     "children": [
+      {
+       "id": "105",
+       "colname": "Eric Allen",
+       "coltitle": "Service Team Lead",
+       "managerid": "24"
+      },
+      {
+       "id": "106",
+       "colname": "Catherine Watson",
+       "coltitle": "Service Team Lead",
+       "managerid": "24"
+      },
+      {
+       "id": "107",
+       "colname": "Adelaide Henderson",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "108",
+       "colname": "Maya Carroll",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "109",
+       "colname": "James Stewart",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "110",
+       "colname": "Adison Johnston",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "111",
+       "colname": "Alford Baker",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "112",
+       "colname": "Michael Hill",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "113",
+       "colname": "Ralph Burton",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      },
+      {
+       "id": "114",
+       "colname": "Tommy Nelson",
+       "coltitle": "Customer Advisor",
+       "managerid": "24"
+      }
+     ]
+    },
+    {
+     "id": "22",
+     "colname": "Justin Douglas",
+     "coltitle": "Marketing Manager",
+     "managerid": "15"
+    },
+    {
+     "id": "23",
+     "colname": "Ashton Cole",
+     "coltitle": "Sales Manager",
+     "managerid": "15"
+    },
+    {
+     "id": "24",
+     "colname": "Frederick Morris",
+     "coltitle": "Customer Service Manager",
+     "managerid": "15"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "colname": "Adam Perry",
+   "coltitle": "CEO",
+   "managerid": ""
+  },
+  {
+   "id": "14",
+   "colname": "Adelaide Owens",
+   "coltitle": "COO",
+   "managerid": "13"
+  },
+  {
+   "id": "15",
+   "colname": "Sam Harper",
+   "coltitle": "CCO",
+   "managerid": "13"
+  }
+ ]
+}
